@@ -1,0 +1,4 @@
+# Ignore compiled files
+build/
+# Ignore secret.txt
+Secret.txt
